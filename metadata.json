@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI YouTube Thumbnail & Logo Maker",
+  "description": "A powerful tool to create stunning YouTube thumbnails and channel logos using a suite of Gemini AI features. Generate images, edit with text prompts, get design ideas from a chatbot, and even have real-time voice conversations with an AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
